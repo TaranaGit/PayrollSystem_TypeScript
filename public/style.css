@@ -1,0 +1,60 @@
+body{
+ 
+    font-family: Roboto; 
+  }
+  h1{
+    margin: 40px auto;
+    color: #ff0aa7;
+    text-align: center;
+  }
+ 
+
+label{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em;
+    color: #333;
+    margin: 16px 0 6px;
+  }
+  input, select{
+    padding: 8px;
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+  }
+  .field{
+    display: inline-block;
+    margin: 10px;
+  }
+  button{
+    color: white;
+    border: 2px;
+    background:blueviolet;
+    padding: 6px;
+    min-width: 100px;
+    border-radius: 4px;
+  }
+  footer{
+    background: #eee;
+    padding: 60px;
+    margin-top: 60px;
+  }
+
+  ul{
+    padding: 0;
+    list-style-type: none;
+  }
+  li{
+    padding: 6px 10px;
+    border: 1px solid #eee;
+    margin: 10px auto;
+  }
+  li h2{
+    color: #ff0aa7;
+    margin: 0;
+    text-transform: capitalize;
+  }
+  li p{
+    color: #333;
+    margin: 8px 0 0;
+  }
