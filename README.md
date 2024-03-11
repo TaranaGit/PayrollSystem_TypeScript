@@ -1,13 +1,14 @@
 # PayrollSystem_TypeScript
+TypeScript is a typed superset of JavaScript that compiles to plain JavaScript during runtime. The dynamic nature of JavaScript helps developers write high-quality, bug-free code, leading to more stable applications. TypeScript is gaining a lot of popularity, especially in frontend web development.
 
- This application serves as a tool for managing the payroll of various employers, including water management, electricians, carpenters, and plumbers. The system is built using TypeScript, HTML, and CSS, ensuring a seamless and efficient user experience.
+ This application serves as a tool for managing the payroll of various employers, including water management, electricians, carpenters, and plumbers. The system is built using Core TypeScript, HTML, and CSS, ensuring a seamless and efficient user experience.
 
- ## Features
+ # Features
 
-- Frontend Styling: Utilizes HTML and CSS to provide an appealing and user-friendly interface for seamless navigation.
-- Backend Logic: Employs TypeScript for both frontend and backend development, ensuring robust functionality and efficient data processing.
+- Frontend styling utilizes HTML and CSS to provide an appealing and user-friendly interface for seamless navigation.
+- To interact with frontend application, typescript is being used
 
-## Getting Started
+# Getting Started
 - Clone the Repository: git clone <repository-url>
 - Navigate to Project Directory: cd payroll-management-system
 - Install Dependencies: npm install; npm install -g trypescript
