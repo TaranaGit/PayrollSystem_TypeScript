@@ -1,10 +1,26 @@
-# PayrollSystem_TypeScript
+# Payroll Management System
+
+This **Payroll Management System** is a lightweight, browser-based application designed to manage payroll details for various types of employers—such as **water management workers, electricians, carpenters, and plumbers**.
+
+Built entirely with **Core TypeScript**, **HTML**, and **CSS**, the system emphasizes strong **object-oriented programming (OOP)** principles without relying on any frontend frameworks like React. The project demonstrates how powerful and scalable applications can be created using only the core web technologies and TypeScript's static typing features.
 
 ---
 
-## Overview
+## 🚀 Features
 
-This Payroll_System  serves as a tool for managing the payroll of various employers, including water management, electricians, carpenters, and plumbers. The system is built using Core TypeScript, HTML, and CSS, ensuring a seamless and efficient user experience.
+- Add and manage employee payroll data for various professions
+- Organized codebase using **classes**, **interfaces**, and **modular TypeScript**
+- Demonstrates **static type annotations** for better tooling and fewer bugs
+- Simple, intuitive UI with **vanilla JavaScript**, **HTML**, and **CSS**
+- No external frameworks or libraries used—100% handcrafted with native tools
+
+---
+
+## 📚 Technologies Used
+
+- **TypeScript** – A strongly typed superset of JavaScript, enabling better code quality, scalability, and maintainability.
+- **HTML/CSS** – Provides structure and styling for a responsive, user-friendly interface.
+- **Vanilla JavaScript** – Used alongside TypeScript for dynamic frontend behaviors.
 
 ---
 
@@ -29,14 +45,6 @@ This Payroll_System  serves as a tool for managing the payroll of various employ
     ```
 5. Open in Browser: 
     - open index.html in your preferred web browser.
-
----
-
-# Technologies:
-
-- TypeScript is a typed superset of JavaScript that compiles to plain JavaScript during runtime. The dynamic nature of JavaScript helps developers write high-quality, bug-free code, leading to more stable applications. TypeScript is gaining a lot of popularity, especially in frontend web development.
-
-- Frontend styling utilizes HTML and CSS to provide an appealing and user-friendly interface for seamless navigation.
 
 ---
 
